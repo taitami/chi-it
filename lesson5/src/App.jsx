@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import Heroes from './pages/Heroes';
 import About from './pages/About';
 
-const App = () => {
+const App = () => { //lesson6 also in this dir
   return (
     <ThemeProvider>
       <BrowserRouter>
